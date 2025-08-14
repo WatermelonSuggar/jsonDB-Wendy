@@ -1,0 +1,23 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "Alejandra",
+            "state": true,
+            "deck": [3, 2, 8, 4, 16]
+        },
+        {
+            "id": 2,
+            "username": "Angélica",
+            "state": true,
+            "deck": [130, 230, 19, 64, 16]
+        },
+        {
+            "id": 3,
+            "username": "Melanie",
+            "state": true,
+            "deck": [28, 8, 397, 23, 289]
+        }
+    ],
+    "worlds": [1, 2, 3, 4, 5, 6, 7, 8]
+}
