@@ -1,39 +1,23 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "username": "Alejandra",
-            "state": true,
-            "deck": [3, 2, 8, 4, 16]
-        },
-        {
-            "id": 2,
-            "username": "Angélica",
-            "state": true,
-            "deck": [130, 230, 19, 64, 16]
-        },
-        {
-            "id": 3,
-            "username": "Melanie",
-            "state": true,
-            "deck": [28, 8, 397, 23, 289]
-        }
-    ],
-    "cards": [
-        { "id": 2, "name": "Carta Fuego", "image": "https://via.placeholder.com/150/FF0000/FFFFFF?text=Fuego" },
-        { "id": 3, "name": "Carta Agua", "image": "https://via.placeholder.com/150/0000FF/FFFFFF?text=Agua" },
-        { "id": 4, "name": "Carta Tierra", "image": "https://via.placeholder.com/150/00FF00/FFFFFF?text=Tierra" },
-        { "id": 8, "name": "Carta Aire", "image": "https://via.placeholder.com/150/AAAAAA/FFFFFF?text=Aire" },
-        { "id": 16, "name": "Carta Rayo", "image": "https://via.placeholder.com/150/FFFF00/000000?text=Rayo" },
-        
-        { "id": 19, "name": "Carta Luz", "image": "https://via.placeholder.com/150/FFFFAA/000000?text=Luz" },
-        { "id": 23, "name": "Carta Sombra", "image": "https://via.placeholder.com/150/333333/FFFFFF?text=Sombra" },
-        { "id": 28, "name": "Carta Dragón", "image": "https://via.placeholder.com/150/AA0000/FFFFFF?text=Dragón" },
-        { "id": 64, "name": "Carta Hielo", "image": "https://via.placeholder.com/150/00FFFF/000000?text=Hielo" },
-        { "id": 130, "name": "Carta Fantasma", "image": "https://via.placeholder.com/150/550055/FFFFFF?text=Fantasma" },
-        { "id": 230, "name": "Carta Planta", "image": "https://via.placeholder.com/150/00AA00/FFFFFF?text=Planta" },
-        { "id": 289, "name": "Carta Roca", "image": "https://via.placeholder.com/150/555555/FFFFFF?text=Roca" },
-        { "id": 397, "name": "Carta Veneno", "image": "https://via.placeholder.com/150/880088/FFFFFF?text=Veneno" }
-    ],
-    "worlds": [1, 2, 3, 4, 5, 6, 7, 8]
+  "users": [
+    {
+      "id": 1,
+      "username": "Alejandra",
+      "state": true,
+      "deck": [300, 2, 47]
+    },
+    {
+      "id": 2,
+      "username": "Angélica",
+      "state": true,
+      "deck": [130, 230, 19]
+    },
+    {
+      "id": 3,
+      "username": "Melanie",
+      "state": true,
+      "deck": [28, 8, 397]
+    }
+  ],
+  "worlds": [1, 2, 3, 4, 5, 6, 7, 8]
 }
