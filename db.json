@@ -1,18 +1,9 @@
 {
   "users": [
-    { "id": 1, "username": "Angelica",   "state": true, "deck": [1,2,3] },
-    { "id": 2, "username": "Alejandra", "state": true, "deck": [4,5,6] },
-    { "id": 3, "username": "Julieta", "state": true, "deck": [7,8,9] }
-  ],
-  "cards": [
-    { "id": 1,  "name": "Violeta",   "image": "https://raw.githubusercontent.com/WatermelonSuggar/jsonDB-Wendy/blob/main/ImagenesApi/Violetas.jpg" },
-    { "id": 2,  "name": "Begonia",  "image": "https://raw.githubusercontent.com/WatermelonSuggar/jsonDB-Wendy//blob/main/ImagenesApi/begonias.jpg" },
-    { "id": 3,  "name": "Gardenia", "image":  "https://raw.githubusercontent.com/WatermelonSuggar/jsonDB-Wendy//blob/main/ImagenesApi/gardenia.jpg" },
-    { "id": 4,  "name": "Heliconia",  "image": "https://raw.githubusercontent.com/WatermelonSuggar/jsonDB-Wendy//blob/main/ImagenesApi/heliconias.jpg"  },
-    { "id": 5,  "name": "Lirio",  "image": "https://raw.githubusercontent.com/WatermelonSuggar/jsonDB-Wendy//blob/main/ImagenesApi/lirios.jpg" },
-    { "id": 6,  "name": "Margarita",  "image": "https://raw.githubusercontent.com/WatermelonSuggar/jsonDB-Wendy//blob/main/ImagenesApi/margaritas.jpg" },
-    { "id": 7,  "name": "Petunia",  "image": "https://raw.githubusercontent.com/WatermelonSuggar/jsonDB-Wendy//blob/main/ImagenesApi/petunias.jpg" },
-    { "id": 8,  "name": "Rosa",   "image": "https://raw.githubusercontent.com/WatermelonSuggar/jsonDB-Wendy//blob/main/ImagenesApi/rosas.jpg" },
-    { "id": 9,  "name": "Tulipan",  "image": "https://raw.githubusercontent.com/WatermelonSuggar/jsonDB-Wendy//blob/main/ImagenesApi/tuliopan.jpg" }
+    
+    { "id": 1, "username": "Alejandra", "deck": [1, 3, 4] },
+    { "id": 2, "username": "Angelica",  "deck": [5, 6, 7] },
+    { "id": 3, "username": "Melanie",   "deck": [8, 10, 12] },
+    { "id": 4, "username": "Julieta",   "deck": [13, 14, 15] }
   ]
 }
