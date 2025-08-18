@@ -1,9 +1,9 @@
 {
   "users": [
     
-    { "id": 1, "username": "Alejandra", "deck": [1, 3, 4] },
-    { "id": 2, "username": "Angelica",  "deck": [5, 6, 7] },
-    { "id": 3, "username": "Melanie",   "deck": [8, 10, 12] },
-    { "id": 4, "username": "Julieta",   "deck": [13, 14, 15] }
+    { "id": 1, "username": "Alejandra", "deck": [13, 3, 9] },
+    { "id": 2, "username": "Angelica",  "deck": [21, 9, 7] },
+    { "id": 3, "username": "Melanie",   "deck": [28, 10, 97] },
+    { "id": 4, "username": "Julieta",   "deck": [20, 5, 25] }
   ]
 }
